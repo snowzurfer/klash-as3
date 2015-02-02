@@ -1,0 +1,6 @@
+bin
+obj
+assets/*.png
+assets/audio4
+*.png
+*.pdf
