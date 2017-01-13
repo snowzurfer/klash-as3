@@ -1,4 +1,3 @@
-Last updated:    14-05-2014
 Release version: 1.0
 Author:          Alberto Taiuti - 1300250 CGT
 ------------------------------------------------------------------------
@@ -26,7 +25,7 @@ Author:          Alberto Taiuti - 1300250 CGT
 Play the game: http://www.albertotaiuti.com/klash_play.php
 
 
-
+Please visit http://www.albertotaiuti.com/klash.php for a more detailed report.
 
 ### 1.0) About
 ---- -----
